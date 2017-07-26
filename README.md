@@ -8,7 +8,6 @@
 
 Liquibase is an Open Source Solution for Agile Database Automation, we Integrate it with Jenkins CI & Maven Build to automate database Migrations.
 
-
 #### Installation 
 ----------------
 
@@ -18,6 +17,10 @@ Liquibase is an Open Source Solution for Agile Database Automation, we Integrate
 4. Download [JDBC Driver](https://jdbc.postgresql.org/download/postgresql-9.4.1209.jre6.jar) & place it in Lib Folder.
 5. Install [liquibase-3.5.1](https://github.com/liquibase/liquibase/releases/download/liquibase-parent-3.5.1/liquibase-3.5.1-bin.zip)
 6. Add the directory containing the Liquibase.bat file to your PATH. 
+
+#### Project Structure 
+
+
 
 #### Local Development Process 
 -----------------
