@@ -20,7 +20,9 @@ Liquibase is an Open Source Solution for Agile Database Automation, we Integrate
 
 #### Project Structure 
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/elghoujdamilabs/database-automation/master/img/liquibase-project-structure.png" width='600' >
+</p>
 
 #### Local Development Process 
 -----------------
