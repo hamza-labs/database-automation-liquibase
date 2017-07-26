@@ -62,8 +62,3 @@ mvn liquibase:update -Dliquibase.update -Dliquibase.changeLogFile=.\src\db\chang
 - [Database Rollback Commands](https://github.alliancelab.io/gist/a002527/2ba4233ba2ec51fd52033fba609ac926) 
 - [Diff Commands](https://github.alliancelab.io/gist/a002527/2ba4233ba2ec51fd52033fba609ac926) 
 - [Documentation Commands](https://github.alliancelab.io/gist/a002527/2ba4233ba2ec51fd52033fba609ac926) 
-
-
-#### Contributors
-
-@Hamza El Ghoujdami
