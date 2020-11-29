@@ -1,6 +1,6 @@
 <a href="http://www.liquibase.org" ><img src='https://zohodiscussions.com/getCustomFile.do?fileId=49382000001011019&forumGroupId=49382000000003001' align='right' width='100'></a>
 
-### :bar_chart:  Agile Database Automation With Liquibase  :bar_chart:
+### :bar_chart:  Database Automation With Liquibase  :bar_chart:
 ---------------
 
 #### Introduction 
